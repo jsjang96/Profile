@@ -4,6 +4,8 @@
 
 ## :pushpin: Contact
 
+- 이름 : 장진수
+- 생일 : 1996.05.22
 - 전화번호 : 010-4666-0928
 - 이메일: jsjang96@gmail.com
 - 깃헙: https://github.com/jsjang96
@@ -15,9 +17,9 @@
 안녕하세요 <b>소프트웨어 개발자</b> <b>장진수</b>입니다.<br>
 <br>
 
-저는 수학과를 전공을 했습니다. 하지만 IT에 뛰어들었습니다. 그 이유는 저의 장점과 가장 맞는 직업이라고 생각했습니다. <br>
+저는 수학과를 전공을 했습니다. 하지만 전공이 아닌 IT에 뛰어들었습니다. 그 이유는 저의 장점과 가장 맞는 직업이라고 생각했습니다. <br>
 
-저의 장점은 수학을 배우며 얻게됐습니다. 그것은 답을 찾을 때까지 포기하지 않는 근성입니다. <br>
+저의 장점은 수학을 배우며 얻게됐습니다. 그것은 답을 찾을 때까지 <b>포기하지 않는 근성</b>입니다. <br>
 
 개발을 하는데 있어서 항상 들었던 생각은 왜? 라는 것이었습니다. '왜 이런 데이터가 나왔지?', '왜 개발의 구조가 이렇지?' 등등의 질문을 매일 했습니다. <br>
 
@@ -79,6 +81,6 @@ IT에 관심을 가지게 된 것은 저희 아버지와 형 때문입니다. �
 ## :pushpin: Stacks
 - 언어 : Python, Java
 - Front-End : HTML / CSS(SCSS) / JS(ES6, ExtJs)
-- Back-End : Django / Docker / Airflow / ELK스택 / GCP / Spring / Spring-Batch / Spring-Boot
+- Back-End : Django / Docker / Airflow / ELK스택 / GCP / Spring / Spring-Batch / Spring-Boot / Linux
 - DBMS : Mysql / Oracle / PostgreSql / MongoDB
-- Collaboration & Tools : Slack / Discord / VS code / Eclipse / Git, Github / Jira, Confluence
+- Collaboration & Tools : Slack / Discord / VS code / Eclipse / IntelliJ / Git, Github / Jira, Confluence
